@@ -1,18 +1,8 @@
 {
-  "version": 1,
+  "version": 2,
   "issued_at": "2026-03-05T00:00:00Z",
   "ttl_seconds": 3600,
-  "api": {
-    "primary": "https://panel1.starbolivia.space/",
-    "fallbacks": [
-      "https://api.starbolivia.com/",
-      "https://api2.starbolivia.net/"
-    ],
-    "health_path": "/api/health.php"
-  },
   "api_base_urls": [
-    "https://panel1.starbolivia.space/",
-    "https://api.starbolivia.com/",
-    "https://api2.starbolivia.net/"
+    "http://192.168.0.9/starbolivia/api/"
   ]
 }
