@@ -3,6 +3,6 @@
   "issued_at": "2026-03-05T00:00:00Z",
   "ttl_seconds": 3600,
   "api_base_urls": [
-    "http://192.168.0.9/starbolivia/api/"
+    "http://192.168.0.2/starbolivia/api/"
   ]
 }
