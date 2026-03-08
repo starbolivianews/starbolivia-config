@@ -3,6 +3,6 @@
   "issued_at": "2026-03-06T00:00:00Z",
   "ttl_seconds": 3600,
   "api_base_urls": [
-    "https://panel1.starbolivia.space/api/"
+    ""
   ]
 }
